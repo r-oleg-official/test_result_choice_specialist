@@ -8,4 +8,18 @@
 ["1234", "1567", "-2", "computer science"] -> ["-2"]
 ["Russia", "Denmark", "Kazan"] -> []
 */
-Console.WriteLine("Hello, World!");
+
+Console.Clear();
+string[] symbolsArray = {"hello", "2", "world", ":-)"};
+PrintStringArray(symbolsArray);
+
+
+
+void PrintStringArray(string[] array)
+{
+    for (int i = 0; i < array.Length - 1; i++)
+    {
+        Console.Write($"\"{array[i]}\", ");
+    }
+    Console.WriteLine($"\"{array[array.Length - 1]}\"");
+}
