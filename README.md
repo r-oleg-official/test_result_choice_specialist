@@ -12,7 +12,7 @@
 1. Составить блок-схему алгоритма;
 2. Написать программный код на языке С#.
 
-На [рисунке](1) представлена блок-схема одного варианта алгоритма решения данной задачи в случае, 
+На [рисунке](https://github.com/r-oleg-official/test_result_choice_specialist/blob/main/task001_choice_el-t_less_3_symb/pic/test_find_el-t_string_array.drawio.png) представлена блок-схема одного варианта алгоритма решения данной задачи в случае, 
 когда известны значения элементов массива.
 
 ### Алгоритм решения.
@@ -36,5 +36,3 @@
 13. Если "IndexS" меньше размера исходного массива - перейти на шаг 9. Иначе, шаг 14.
 14. Вывести на экран/печать оба массива.
 
-
-[1]: (https://github.com/r-oleg-official/test_result_choice_specialist/blob/main/task001_choice_el-t_less_3_symb/pic/test_find_el-t_string_array.drawio.png)
