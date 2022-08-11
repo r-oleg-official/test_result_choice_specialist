@@ -37,4 +37,4 @@
 14. Вывести на экран/печать оба массива.
 
 
-[1]: (task001_choice_el-t_less_3_symb/pic/test_find_el-t_string_array.drawio.png)
+[1]: (https://github.com/r-oleg-official/test_result_choice_specialist/blob/main/task001_choice_el-t_less_3_symb/pic/test_find_el-t_string_array.drawio.png)
