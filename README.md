@@ -1,5 +1,4 @@
-![](task001_choice_el-t_less_3_symb/pic/c--4.svg)
-
+<h6 align="center"><img src="./task001_choice_el-t_less_3_symb/pic/c--4.svg" alt="c--4" width="100"/> <img src="./task001_choice_el-t_less_3_symb/pic/gb_logo.webp" alt="gb_logo" width="100"></h6>
 
 <h2 align="center">Практическое задание. Выбор специализации.</h2>
 <h3 align="center">Программа поиска элементов массива состоящих не более трех символов.</h3>
